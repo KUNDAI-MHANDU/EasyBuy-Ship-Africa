@@ -1,0 +1,465 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
+  <diagram name="Page-1" id="krs3uUixXeAjrxqfUZhb">
+    <mxGraphModel dx="1501" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-1" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;color: rgba(255,255,255,var(--O42jJQ,1)); caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;Client Visits Website&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="70" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.451;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="120" as="sourcePoint" />
+            <mxPoint x="370" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-6" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Email Verification&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="280" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-5" target="ZeeI88UyPDBNSAy3IAyq-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-8" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="ZeeI88UyPDBNSAy3IAyq-7">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.451;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-1" target="ZeeI88UyPDBNSAy3IAyq-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="112" as="sourcePoint" />
+            <mxPoint x="370" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-5" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Client Registration&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-11" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Client Visits Website&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="70" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-12" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Client Login&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.451;entryY=0.033;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-6" target="ZeeI88UyPDBNSAy3IAyq-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-15" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;How will goods reach warehouse&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="570" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-12" target="ZeeI88UyPDBNSAy3IAyq-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="450" as="sourcePoint" />
+            <mxPoint x="450" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-15" target="ZeeI88UyPDBNSAy3IAyq-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="710" as="sourcePoint" />
+            <mxPoint x="270" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-24" value="Our pickup service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZeeI88UyPDBNSAy3IAyq-21">
+          <mxGeometry x="-0.2167" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-22" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="760" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-31" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;Suppliers Details&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZeeI88UyPDBNSAy3IAyq-22">
+          <mxGeometry x="50" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-32" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Pre-Shipment Phase&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="ZeeI88UyPDBNSAy3IAyq-22">
+          <mxGeometry x="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-33" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Create Consolidation&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZeeI88UyPDBNSAy3IAyq-22">
+          <mxGeometry x="40" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-34" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Schedule Pickup&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZeeI88UyPDBNSAy3IAyq-22">
+          <mxGeometry x="50" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-42" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Generate Quotation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZeeI88UyPDBNSAy3IAyq-22">
+          <mxGeometry x="35" y="150" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-25" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Client request shipment&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-27" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1" target="ZeeI88UyPDBNSAy3IAyq-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.9974058577406" y="670.004769874477" as="sourcePoint" />
+            <mxPoint x="500" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-30" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Client self forwarding&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZeeI88UyPDBNSAy3IAyq-27">
+          <mxGeometry x="0.037" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-28" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="750" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-35" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;We provide warehouse address&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZeeI88UyPDBNSAy3IAyq-28">
+          <mxGeometry x="30" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-37" value="&lt;span style=&quot;caret-color: rgb(18, 18, 18);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Pre-Shipment Phase&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="ZeeI88UyPDBNSAy3IAyq-28">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-38" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Create Consolidation&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZeeI88UyPDBNSAy3IAyq-28">
+          <mxGeometry x="40" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-41" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Generate Quotation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZeeI88UyPDBNSAy3IAyq-28">
+          <mxGeometry x="35" y="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.67;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1060" as="sourcePoint" />
+            <mxPoint x="370" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-44" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-weight: 400; font-style: normal; font-kerning: normal;&quot;&gt;Client Ready to Ship&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1080" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.35;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1050" as="sourcePoint" />
+            <mxPoint x="370" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-44" target="ZeeI88UyPDBNSAy3IAyq-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1140" as="sourcePoint" />
+            <mxPoint x="378" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-47" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Digital Agreement&lt;/span&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Presentation&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.444;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-47" target="ZeeI88UyPDBNSAy3IAyq-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1310" as="sourcePoint" />
+            <mxPoint x="371" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-49" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Client Signs&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg white-space-prewrap font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt; &lt;/span&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Agreement?&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1280" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.825;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-49" target="ZeeI88UyPDBNSAy3IAyq-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1440" as="sourcePoint" />
+            <mxPoint x="290" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-51" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZeeI88UyPDBNSAy3IAyq-50">
+          <mxGeometry x="0.0596" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-52" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Return to Dashboard&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Shipment Cancelled&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="1470" as="sourcePoint" />
+            <mxPoint x="480" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-54" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZeeI88UyPDBNSAy3IAyq-53">
+          <mxGeometry x="-0.0379" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-55" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Agreement Stored&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg white-space-prewrap font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt; &lt;/span&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;in Database&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.589;exitY=1.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-55" target="ZeeI88UyPDBNSAy3IAyq-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="1580" as="sourcePoint" />
+            <mxPoint x="520" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-57" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Create Shipment&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg white-space-prewrap font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt; &lt;/span&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Request&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-57" target="ZeeI88UyPDBNSAy3IAyq-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="1690" as="sourcePoint" />
+            <mxPoint x="520" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-59" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;System Validation&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-59" target="ZeeI88UyPDBNSAy3IAyq-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="1800" as="sourcePoint" />
+            <mxPoint x="520" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-61" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Validation&lt;/span&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Passed?&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1754" width="110" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-61" target="ZeeI88UyPDBNSAy3IAyq-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1910" as="sourcePoint" />
+            <mxPoint x="590" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-63" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Show Errors&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Fix Required&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.431;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZeeI88UyPDBNSAy3IAyq-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1030" as="sourcePoint" />
+            <mxPoint x="414" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1030" as="sourcePoint" />
+            <mxPoint x="740" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZeeI88UyPDBNSAy3IAyq-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="1150" as="sourcePoint" />
+            <mxPoint x="750" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-68" value="If information not filled in correctly" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZeeI88UyPDBNSAy3IAyq-67">
+          <mxGeometry x="-0.3895" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.172;exitY=0.724;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.808;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-61" target="ZeeI88UyPDBNSAy3IAyq-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1900" as="sourcePoint" />
+            <mxPoint x="420" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-70" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZeeI88UyPDBNSAy3IAyq-69">
+          <mxGeometry x="-0.2101" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-71" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1890" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-73" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Shipment Processing&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1890" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-74" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Generate Invoice&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1920" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-75" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Create Packing List&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1980" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-76" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Prepare Customs Docs&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2040" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-71" target="ZeeI88UyPDBNSAy3IAyq-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="2180" as="sourcePoint" />
+            <mxPoint x="330" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-78" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Shipment request has been created&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-78" target="ZeeI88UyPDBNSAy3IAyq-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="2190" as="sourcePoint" />
+            <mxPoint x="210" y="2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-80" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="65" y="2250" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-81" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Admin Alert&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="2250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-82" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;í ½í³§ Admin Receives&lt;/span&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Notification&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-83" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Client ID&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="2338" width="135" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-84" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Client&amp;nbsp;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;Location&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2380" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-85" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Shipment ID&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-78" target="ZeeI88UyPDBNSAy3IAyq-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410.00000000000006" y="2200.0000000000005" as="sourcePoint" />
+            <mxPoint x="450" y="2290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-87" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Automatic Email to Client:&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;â€œShipment Preparedâ€&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.581;exitY=1.003;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-87" target="ZeeI88UyPDBNSAy3IAyq-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="2450" as="sourcePoint" />
+            <mxPoint x="460" y="2440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-89" target="ZeeI88UyPDBNSAy3IAyq-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="2820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-89" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="2470" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-90" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Domestic Phase&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2470" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.017;exitY=0.608;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="910" as="sourcePoint" />
+            <mxPoint x="-30" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-92" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="970" as="sourcePoint" />
+            <mxPoint x="-40" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-94" value="For Clients that requested &lt;br&gt;our pickup service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZeeI88UyPDBNSAy3IAyq-92">
+          <mxGeometry x="-0.3787" y="-3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.003;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZeeI88UyPDBNSAy3IAyq-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="2570" as="sourcePoint" />
+            <mxPoint x="10" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-95" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Pickup from Suppliers&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2500" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-87" target="ZeeI88UyPDBNSAy3IAyq-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-97" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Warehouse Consolidation&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2550" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-98" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Domestic Transport to&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg white-space-prewrap font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt; &lt;/span&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Port&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="2610" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="2940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-101" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Ready for International&lt;/span&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;Shipping&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="2790" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-104" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="329" y="2940" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-105" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Admin Tracking Assignment&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2940" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-106" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Admin Logs into Separate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;caret-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;Platform&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2970" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-107" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;Search by Client ID/&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;Shipment ID&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="3020" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-108" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Assign Airway Bill&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;Tracking Number&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3070" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-109" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Update Database&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;with Tracking#&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="3120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-110" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Update Database&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;with Tracking#&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-111" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;Mark as Internationally&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Shipped&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="3200" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-113" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="3330" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-104" target="ZeeI88UyPDBNSAy3IAyq-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-116" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;International Phase&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="3340" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-117" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Tracking Number Active&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="3380" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-118" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;International Shipping&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3447" width="180" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498.5" y="4040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-119" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Customs Clearance&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="403.5" y="3940" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-120" target="ZeeI88UyPDBNSAy3IAyq-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="4160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-120" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Last-Mile Delivery&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="4042" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498.5" y="3940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-122" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="373.5" y="3630" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-123" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Client Tracking Access&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="427" y="3630" width="143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-124" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;Email: â€œTracking Number&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Assignedâ€&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="416" y="3660" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-125" value="&lt;p class=&quot;cvGsUA direction-ltr align-center para-style-body&quot; style=&quot;caret-color: rgb(255, 255, 255); --8sD0Kg: none; --cyV3ZQ: 12px; --gJPlXQ: 1.4; --s8NbEA: p; line-height: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;--Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;Client Can Now Track&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;background-color: transparent; --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;International&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Shipment&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="3720" width="152" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-126" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Real-time Tracking Updates&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="3790" width="147.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-113" target="ZeeI88UyPDBNSAy3IAyq-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-131" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Delivery Confirmation&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="4150" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-132" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Automatic Loyalty Points&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="4260" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-133" value="&lt;span class=&quot;a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot; style=&quot;caret-color: rgb(255, 255, 255); --Ys-XuQ: none; font-kerning: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Payment Reminder&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="4380" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-131" target="ZeeI88UyPDBNSAy3IAyq-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeeI88UyPDBNSAy3IAyq-138" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZeeI88UyPDBNSAy3IAyq-132" target="ZeeI88UyPDBNSAy3IAyq-133">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="4380" as="sourcePoint" />
+            <mxPoint x="380" y="4330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
